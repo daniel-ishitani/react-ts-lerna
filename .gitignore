@@ -5,3 +5,5 @@
 /packages/cli/dist
 /packages/local-api/node_modules
 /packages/local-api/dist
+
+lerna-debug.log
